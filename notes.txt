@@ -1,0 +1,7 @@
+to know how to fetch api (to get data from backend in inotebook case) go to website fetch with headers, and 
+copy the syntax and use it in the project
+
+Sometime jb hum backend ke data ko , frontend mei use krke aur ye chahte hote hia ki  backend mei uska effect 
+aa jaye to kbhi kbhi cors ka error aa jata hai , to use fix krne ke liye hume cors package install krna pdta hai and 
+use use krna pdta hai in (backend).
+jo bhi install krna hai use krna hai is cors ka vo backend mei hoga frontend mei nhi
